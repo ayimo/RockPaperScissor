@@ -1,6 +1,8 @@
 <h1>Rock Paper Scissors</h1>
 <strong>Goal: </strong>Create a simple game of Rock, Paper, Scissors using Javascript</strong>
 
+![alt text](RPS.png)
+
 Create a game of Rock Paper Scissors, which includes three buttons that correspond to the respective choices for the game.
 Make a scoreboard which keeps track of the "Players" wins, and of the "Bots" wins.
 
@@ -23,6 +25,8 @@ if(
 		(botsWeapon=="rock" && playersWeapon=="scissors")
 		)
  ```
+ 
+ I then finished up the looks of the project with CSS.
  
  <strong>Lessons Learned</strong>
 
